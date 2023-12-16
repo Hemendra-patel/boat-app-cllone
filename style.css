@@ -70,7 +70,9 @@ input{
   width: 100vw;
   display: flex;
   flex-shrink: 0;
-background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
   /* overflow: hidden; */
   background-image: url(web10\ img5.jpg);
 }
